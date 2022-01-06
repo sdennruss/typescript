@@ -31,7 +31,7 @@ const TipCalculator: React.FC = () => {
 			<Bill handleBill={onBillChange} />
 			<TipField handleTip={onTipChange} />
 			<TotalField bill={bill} tip={tip}>
-				{(bill, tip) => <div>Total: {onTotalChange(bill, tip)}</div>}
+				{(bill, tip) => <div>Total: $ {onTotalChange(bill, tip)}</div>}
 			</TotalField>
 		</div>
 	);
