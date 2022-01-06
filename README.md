@@ -1,5 +1,5 @@
 # typescript
 
-Used Typescript to build a tip calculator using React.js. 
+Practice my Typescript skill to build a tip calculator using React.js. 
 
-Scrimba Challenge #1
+Scrimba.com Coding Weekly Challenge #1
