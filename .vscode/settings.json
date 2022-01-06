@@ -1,0 +1,10 @@
+{
+	"autoimport.showNotifications": true,
+	"path-intellisense.extensionOnImport": true,
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact",
+		"typescript": "typescript"
+	},
+	"workbench.hover.delay": 500,
+	"typescript.tsdk": "node_modules/typescript/lib"
+}
